@@ -16,7 +16,7 @@
 
 ---
 
-## FR Description :
+## EN Description :
 
 ```Project: The goal is to integrate the mockup of a website in HTML and CSS.```
 
