@@ -3,7 +3,7 @@
 
 ## FR Description :
 
-```Projet : L'objectif est d'intégrer la maquette d'un site web en HTML et CSS```.
+```Projet : L'objectif est d'intégrer la maquette d'un site web en HTML et CSS.```
 
 ## Spécifications techniques :
 
